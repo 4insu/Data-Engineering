@@ -1,0 +1,1 @@
+from .api.jokes import get_jokes
